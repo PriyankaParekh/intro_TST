@@ -40,7 +40,7 @@ animation01
     position: absolute;
     right: 0;
     bottom: 0;
-    background-color: #35B729;
+    background-color: coral;
     opacity: 0;
 }
 .line01{
@@ -688,7 +688,7 @@ orange circle
 .orange01{
     width: 27vw;
     height: 27vw;
-    background: #35B729;
+    background: coral;
     z-index: 1;
     top: 50%;
     left: 50%;
@@ -724,11 +724,11 @@ orange circle
     }
     50.01% {
         transform: rotate(-360deg);
-        background: #35B729;
+        background: coral;
     }
     100% {
         transform: rotate(-360deg);
-        background: #35B729;
+        background: coral;
     }
 }
 
@@ -797,7 +797,7 @@ orange circle
 h2{
     margin-top: 20px;
     text-align: center;
-    color: #35B729;
+    color: coral;
     font-size: 6vh;
 
 }
